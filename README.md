@@ -36,8 +36,7 @@ Your application should display a large button that, when clicked, fetches a ran
 ## Yoga Stretch Goals 
 
 * Have a random dad joke appear on app load.
-* After you write your components in traditional React, then rewrite functional components using `Hooks`. 
-* Try using `useEffect` instead of the component traditional lifecycle methods.
+* After you write your components in traditional React, then rewrite functional components using `Hooks` (try using `useState` and `useEffect` instead of the component traditional lifecycle and state methods. 
 * Give your app some style!
 
 
