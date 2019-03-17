@@ -5,6 +5,8 @@ The [Dad Jokes API](https://icanhazdadjoke.com/api) includes an endpoint for [ge
 
 ![](https://media.giphy.com/media/1woSafF6fSRUa40iTr/giphy.gif)<br>
 
+To help get you started, we added a linter, `reactstrap`, and a few other dependencies to help you along your way.
+
 ---
 
 ## Prerequisites
@@ -33,7 +35,10 @@ Your application should display a large button that, when clicked, fetches a ran
 
 ## Bonus 
 
-Write your app in Hooks and give it a fancy style!
+* Write functional components using `Hooks`.
+* Try using `useEffect` instead of the component traditional lifecycle methods.
+* Give your app some style!
+
 
 ## Even Bigger Bonus
 
