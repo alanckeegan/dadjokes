@@ -4,18 +4,17 @@
 The [Dad Jokes API](https://icanhazdadjoke.com/api) includes an endpoint for [getting a random dad joke](https://icanhazdadjoke.com/api#fetch-a-random-dad-joke). Your task is to build an app using React that displays a random dad joke from the API with the push of a button!
 
 ![](https://media.giphy.com/media/1woSafF6fSRUa40iTr/giphy.gif)<br>
-<sup> [Image Credit: Spencer Wilson for the Washington Post](https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/06/17/did-you-get-your-hair-cut-readers-share-their-favorite-ridiculously-awful-dad-jokes/?noredirect=on&utm_term=.297ac211fffc) <sup>
 
 ---
 
 ## Prerequisites
 
-Students should be familiar with: 
+Students should be familiar with the following: 
 
 -   React and React components
 -   State and props
--   The component life-cycle methods
--   Working with an API
+-   Component life-cycle methods
+-   APIs
 
 ## Instructions
 
@@ -31,6 +30,10 @@ The starter code provided here is based on Create React App.
 Your application should display a large button that, when clicked, fetches a random dad joke from the Dad Jokes API and displays it to the user. It should look as similar as possible to the image provided below. You could, as a bonus, have a random dad joke appear when the app loads.
 
 ![Dad Jokes app mock](./assets/dad-jokes.png)
+
+## Bonus 
+
+Write your app in Hooks and give it a fancy style!
 
 ## Even Bigger Bonus
 
