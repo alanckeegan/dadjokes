@@ -29,18 +29,19 @@ The starter code provided here is based on Create React App.
 
 ## Requirements
 
-Your application should display a large button that, when clicked, fetches a random dad joke from the Dad Jokes API and displays it to the user. It should look as similar as possible to the image provided below. You could, as a bonus, have a random dad joke appear when the app loads.
+Your application should display a large button that, when clicked, fetches a random dad joke from the Dad Jokes API and displays it to the user. It should look as similar as possible to the image provided below.
 
 ![Your app should looks something like this!](https://drive.google.com/file/d/1N_aFEN18nua-42HhgessxE3XwnqBbz-K/view)
 
-## Bonus 
+## Yoga Stretch Goals 
 
-* Write functional components using `Hooks`.
+* Have a random dad joke appear on app load.
+* After you write your components in traditional React, then rewrite functional components using `Hooks`. 
 * Try using `useEffect` instead of the component traditional lifecycle methods.
 * Give your app some style!
 
 
-## Even Bigger Bonus
+## Crossfit Stretch Goals
 
 Build a queue that stores the 10 most recently retrieved dad jokes! Additionally, add some buttons that let you scroll back and forth through the queue.
 
