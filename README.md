@@ -31,7 +31,7 @@ The starter code provided here is based on Create React App.
 
 Your application should display a large button that, when clicked, fetches a random dad joke from the Dad Jokes API and displays it to the user. It should look as similar as possible to the image provided below.
 
-![Your app should looks something like this!](https://drive.google.com/file/d/1N_aFEN18nua-42HhgessxE3XwnqBbz-K/view)
+[Your app should looks something like this!](https://drive.google.com/file/d/1N_aFEN18nua-42HhgessxE3XwnqBbz-K/view)
 
 ## Yoga Stretch Goals 
 
